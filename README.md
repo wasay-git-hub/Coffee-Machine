@@ -33,3 +33,7 @@ This is a simple console-based coffee machine simulation written in Python. The 
 
 1. Make sure you have Python 3 installed.
 2. Clone this repository or download the code file.
+3. Run the script:
+
+```bash
+python coffee_machine.py
